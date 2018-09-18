@@ -1,0 +1,16 @@
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.RazorAssemblyInfo.cache
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.RazorAssemblyInfo.cs
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.AssemblyInfoInputs.cache
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.AssemblyInfo.cs
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\GameAPI.deps.json
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\GameAPI.runtimeconfig.json
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\GameAPI.runtimeconfig.dev.json
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\GameAPI.dll
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\GameAPI.pdb
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.RazorTargetAssemblyInfo.cache
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.dll
+C:\Users\skapoor\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.1\GameAPI.pdb

@@ -1,0 +1,15 @@
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Cassandra.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\LZ4.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Cassandra.xml
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\skapoor\source\repos\GameAPI\DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml

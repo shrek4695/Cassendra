@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.0\GameAPI.deps.json
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.0\GameAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.0\GameAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.0\GameAPI.dll
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\bin\Debug\netcoreapp2.0\GameAPI.pdb
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.dll
+C:\Users\Administrator\source\repos\GameAPI\GameAPI\obj\Debug\netcoreapp2.0\GameAPI.pdb
